@@ -1,3 +1,10 @@
+# Football Match Prediction System
+
+## Project Overview
+
+This project develops a machine learning system for predicting football match outcomes using historical international football match data.
+
+The system considers home and away team performance along with team-strength and recent-form features. Machine learning models are trained on historical matches and evaluated u
 # FIFA World Cup Streamlit App
 
 This app is built from the final production pipeline in `football_match_prediction(1).ipynb`.
